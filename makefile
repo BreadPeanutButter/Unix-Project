@@ -1,6 +1,6 @@
 all: README.md
 
-README.md: 
+README.md: guessinggame.sh 
 	echo "# Title: Unix Project" > README.md
 	echo "Date and time: $$(date)  " >> README.md
 	echo Number of lines in guessinggame.sh: $$(cat guessinggame.sh | wc -l) >> README.md

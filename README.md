@@ -1,3 +1,3 @@
 # Title: Unix Project
-Date and time: Sat Mar 16 21:33:29 SGT 2019  
-Number of lines in guessinggame.sh: 27
+Date and time: Sun Mar 17 20:39:13 SGT 2019  
+Number of lines in guessinggame.sh: 28
